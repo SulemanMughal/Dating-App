@@ -3,4 +3,4 @@
 
 ## Demo Video
 
-[![Watch the video]](./demo/demo.mov)
+[![Watch the video]()](./demo/demo.mov)
