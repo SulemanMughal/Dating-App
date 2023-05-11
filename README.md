@@ -3,4 +3,4 @@
 
 ## Demo Video
 
-./demo/demo.mov
+https://github.com/SulemanMughal/Dating-App/blob/main/demo/demo.mov
